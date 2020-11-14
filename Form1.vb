@@ -1,7 +1,4 @@
 ﻿Imports System.IO
-Imports System.Linq
-Imports System.Xml.Linq
-
 
 Public Class Form1
 
